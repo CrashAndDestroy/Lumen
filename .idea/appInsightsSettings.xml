@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.lumen" />
+                  <option name="mobileSdkAppId" value="1:998628680368:android:15a38729f9ea6f24469175" />
+                  <option name="projectId" value="lumen-50629" />
+                  <option name="projectNumber" value="998628680368" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

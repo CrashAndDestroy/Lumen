@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "998628680368",
+    "firebase_url": "https://lumen-50629-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lumen-50629",
+    "storage_bucket": "lumen-50629.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998628680368:android:15a38729f9ea6f24469175",
+        "android_client_info": {
+          "package_name": "com.lumen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkeqk4OZM7MvxRfQl12j0bkyoFBRPs_1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
